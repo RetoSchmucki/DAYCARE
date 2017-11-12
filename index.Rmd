@@ -12,12 +12,13 @@ github-repo: RetoSchmucki/DAYCARE
 cover-image: images/wren.png
 description: "This book introduce tools and methods that I used to conduct data analysis in community ecology and macroecology. The output format for this example is bookdown::gitbook."
 ---
-
-# Preface {-}
+# {-}
 
 ```{r fig.align='center', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='https://www.rspb.org.uk/birds-and-wildlife/bird-and-wildlife-guides/bird-a-z/w/wren/index.aspx'}
 knitr::include_graphics('images/wren.png', dpi = NA)
 ```
+
+# Preface {-}
 
 This short book introduces an R package, **bookdown**, to change your workflow of writing books. It should be technically easy to write a book, visually pleasant to view the book, fun to interact with the book, convenient to navigate through the book, straightforward for readers to contribute or leave feedback to the book author(s), and more importantly, authors should not always be distracted by typesetting details.
 
