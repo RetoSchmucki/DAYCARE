@@ -23,6 +23,8 @@ knitr::include_graphics('images/wren.png', dpi = NA)
 
 This book introduces and documents some of the tools and methods I am using in my daily workflow to manipulate and analyze data. My work as a community ecologist involves working with complex data sets integrating aspects of statistic and geocomputation (GIS). My main motivation for writing this book is to provide a comphrensive framework, using **Open Source** projects supported by active communities working on implementing state-of-the art methods to address the challenges of modern data analysist. Hopefully, this book will help us increase our efficiency and enable development of reproducibile of science. My second motivation here is also to self document and keep a track of my progress as I often have to trace back what I have done, often not so far away. Finally, this book is also a way for me to explore and learning the specificity of the **bookdown** package.
 
+This book is also an writing excercise where I try to improve my communication skills.
+
 ![Creative Commons License](images/CClogo.png =250x) 
 
 # Prerequisites
