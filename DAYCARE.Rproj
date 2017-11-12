@@ -10,6 +10,10 @@ NumSpacesForTab: 2
 Encoding: UTF-8
 
 RnwWeave: knitr
+<<<<<<< HEAD
 LaTeX: XeLaTeX
+=======
+LaTeX: pdfLaTeX
+>>>>>>> 6f379460dad23ef0815c24b5727f16890678dd19
 
 BuildType: Website
