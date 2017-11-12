@@ -21,9 +21,9 @@ knitr::include_graphics('images/wren.png', dpi = NA)
 
 # Preface {-}
 
-I am starting writing this book to introduces and document some of the tools and methods I use to analyze and visualize data as a community ecologist working at multiple scale. This involve working with complex data sets and performing manipulation and computation that integrate aspect of statistic and geocomputation (GIS). My motivation here is to provide a framework that is based on **Open Source** project and multiplatform to enable democratic use of the methods and hopefully increase reproducibility of science. The other motivation is to self document and keep a trace of my progress as I often have to trace back what I have done in the past, often not so far away. 
+This book introduces and documents some of the tools and methods I am using in my daily workflow to manipulate and analyze data. My work as a community ecologist involves working with complex data sets integrating aspects of statistic and geocomputation (GIS). My main motivation for writing this book is to provide a comphrensive framework, using **Open Source** projects supported by active communities working on implementing state-of-the art methods to address the challenges of modern data analysist. Hopefully, this book will help us increase our efficiency and enable development of reproducibile of science. My second motivation here is also to self document and keep a track of my progress as I often have to trace back what I have done, often not so far away. Finally, this book is also a way for me to explore and learning the specificity of the **bookdown** package.
 
-![Creative Commons License](images/CClogo.png) 
+![Creative Commons License](images/CClogo.png =250x) 
 
 # Prerequisites
 
