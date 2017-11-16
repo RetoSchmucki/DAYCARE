@@ -21,7 +21,20 @@ knitr::include_graphics('images/wren.png', dpi = NA)
 
 # Preface {-}
 
-This book introduces and documents some of the tools and methods I am using in my daily workflow to manipulate and analyze data. My work as a community ecologist involves working with complex data sets integrating aspects of statistic and geocomputation (GIS). My main motivation for writing this book is to provide a comphrensive framework, using **Open Source** projects supported by active communities working on implementing state-of-the art methods to address the challenges of modern data analysist. Hopefully, this book will help us increase our efficiency and enable development of reproducibile of science. My second motivation here is also to self document and keep a track of my progress as I often have to trace back what I have done, often not so far away. Finally, this book is also a way for me to explore and learning the specificity of the **bookdown** package.
+My intention whith this book is not to provide another book on R programming or give a comprehensive presentation of GIS, database or statistical modelling in ecology, but rather to present toolbox of softwares and methods that I find immensely useful in my day to day work as an ecologist handling complex datat sets. I must warn the readers that I am not a programmer nor a specialist in computer science, I would rater describe myself as an ecologists with strong interest in data science. Beside my motivation in presenting a set of tools and methods that can be useful to other ecologists, I am also a big fan of open source solutions. 
+
+My interest in open source solution is twofold, first it triggers 'fast' development through joint effort and second and probably the most important to me is that it promote equity in access and implementation of state-of-the art methods. I am conscious, howerver, that this often comes at the cost of a steeper learning curve and some programming that can be intemedating for many. On the other hand, I would argue that the solutions presented here are widely documnented and supported by dynamic communities of users and developpers around the world. 
+
+All solutions presented here are available under Mac, Windows or Lunix environments and should be portable across these different platforms.  
+
+
+
+
+
+
+, this involves handling data  and that my training and main interests are in ecology and environmental sciences.  
+
+ and collaborating with other researchers.  manipulate analyze and represent complex data sets.  and presentdatain my work as an ecologist working with complex data sets.  manipulate and analyze data. My work as a community ecologist involves working with complex data sets integrating aspects of statistic and geocomputation (GIS). My main motivation for writing this book is to provide a comphrensive framework, using **Open Source** projects supported by active communities working on implementing state-of-the art methods to address the challenges of modern data analysist. Hopefully, this book will help us increase our efficiency and enable development of reproducibile of science. My second motivation here is also to self document and keep a track of my progress as I often have to trace back what I have done, often not so far away. Finally, this book is also a way for me to explore and learning the specificity of the **bookdown** package.
 
 This book is also an writing excercise where I try to improve my communication skills.
 
