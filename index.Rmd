@@ -25,7 +25,7 @@ This book introduces and documents some of the tools and methods I am using in m
 
 This book is also an writing excercise where I try to improve my communication skills.
 
-<img src="images/CClogo.png" alt="images/CClogo.png" style="width: 200px;"/>
+<img src="images/CClogo.png" style="width: 200px;"/>
 
 # Prerequisites
 
