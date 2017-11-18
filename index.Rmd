@@ -1,4 +1,4 @@
---- 
+---
 title: "Programming for Community Ecology and Macroecology"
 author: "Reto Schmucki"
 date: "`r Sys.Date()`"
@@ -21,42 +21,10 @@ knitr::include_graphics('images/wren.png', dpi = NA)
 
 # Preface {-}
 
-My intention with this book is not to provide another book on R programming or give a comprehensive presentation of GIS, database or statistical modelling in ecology, but rather to present toolbox of softwares and methods that I find immensely useful in my day to day work as an ecologist handling complex data sets. I must warn the readers that I am not a programmer nor a specialist in computer science, I would rater describe myself as an ecologists with strong interest in data science. Beside my motivation in presenting a set of tools and methods that can be useful to other ecologists, I am also a big fan of open source solutions. 
+My intention with this book is not to provide another book about R programming or give a comprehensive presentation of GIS, database or statistical modelling in ecology, but rather to present toolbox of softwares and methods that I find immensely useful in my day to day work as an ecologist handling complex data sets. I must warn the readers that I am not a programmer nor a specialist in computer science, I would rater describe myself as an ecologists with strong interest in data science. Beside my motivation in presenting a set of tools and methods that can be useful to other ecologists, I am also a big fan of open source solutions.
 
-My interest in open source solution is twofold, first it triggers 'fast' development through joint effort and second and probably the most important to me is that it promote equity in access and implementation of state-of-the art methods. I am conscious, however, that this often comes at the cost of a steeper learning curve and some programming that can be intimidating for many. On the other hand, I would argue that the solutions presented here are widely documented and supported by dynamic communities of users and developers around the world. 
+My interest in open source solution is twofold, first it enables development through joint effort and second it promotes equitable access and implementation of state-of-the art methods. I am conscious, however, that it also might comes at the cost of a steeper learning curve which can be intimidating for some. On the other hand, I would argue that the comprehensive documentation and dynamic communities supporting the solution presented here make the sailing through much smoother than it might appear. On top of the wide accessibility through open source/access the solutions presented here are available for most operating systems, including Mac, Windows and Linux, and should be portable across the different platforms.
 
-All solutions presented here are available under Mac, Windows or Linux environments and should be portable across these different platforms.  
-
-
-
-
-
-
-, this involves handling data  and that my training and main interests are in ecology and environmental sciences.  
-
- and collaborating with other researchers.  manipulate analyze and represent complex data sets.  and presentation my work as an ecologist working with complex data sets.  manipulate and analyze data. My work as a community ecologist involves working with complex data sets integrating aspects of statistic and geocomputation (GIS). My main motivation for writing this book is to provide a comprehensive framework, using **Open Source** projects supported by active communities working on implementing state-of-the art methods to address the challenges of modern data analyst. Hopefully, this book will help us increase our efficiency and enable development of reproducible of science. My second motivation here is also to self document and keep a track of my progress as I often have to trace back what I have done, often not so far away. Finally, this book is also a way for me to explore and learning the specificity of the **bookdown** package.
-
-This book is also an writing exercise where I try to improve my communication skills.
+I am writing this book as a work-in-progress where I document some of the things that I know well and explore some others that are newer to me, but look particularly promising. This mean that while most tools and softwares presented here are mature projects, they are also actively developing , implementing new solutions with enhance possibilities. As the amount of data available for treatment is exponentially increasing, new frameworks with better integrated solutions are needed to generate efficient and reproducible procedures to manage and analyze them. Portable, well documented and reproducible workflows are particularly desirable to address the specific of challenges of working with complex and large data sets in collaborative research. Hopefully, this book will contribute to others and help myself document and keep a track of my  own progress as data analyst.
 
 <img src="images/CClogo.png" style="width: 200px;"/>
-
-# Prerequisites
-
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.
-
-For now, you have to install the development versions of **bookdown** from Github:
-
-```{r eval=FALSE}
-devtools::install_github("rstudio/bookdown")
-```
-
-Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.
-
-To compile this example to PDF, you need to install XeLaTeX.
-
-```{r include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
-```
