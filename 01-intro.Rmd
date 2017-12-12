@@ -1,7 +1,18 @@
 
 # Introduction {#intro}
 
-providing and introduction with motivation for these tool.
+Good data management and efficient workflow is essential for producing research excellence. But handling complex and large data set is not trivial and require some special tools and techniques. Ideally, everything would integrated in one single workflow where one could start from raw data to produce analyses, output and communicate results. When done carefully and with the right tools, high-standard management and good documentation of procedure will contribute to make your research reproducible and data reusable.
+
+Adopting best practice for data management and reproducibility is also important to facilitate collaborative research, something that is becoming the reality of most research agenda.
+
+Along the pages of this book, we will discuss and learn how to setup and use such an environment. While there are many excellent tools available, I will focus on those that are freely available and supported by great community of developers.
+
+First, we need to install a good development environment. There's many code editors. The great thing with editors is that they are the place where you can develop almost everything.
+
+SublimeText has long been the greatest text editor https://www.sublimetext.com/
+Atom misses the smoothness of SublimeText, but has really well integrated tools. https://atom.io/
+Visual Studio Code is great tool https://code.visualstudio.com/
+
 
 You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
 

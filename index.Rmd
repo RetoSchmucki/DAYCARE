@@ -1,5 +1,5 @@
 ---
-title: "Programming for Community Ecology and Macroecology"
+title: "Programming for Community and Macroecologists"
 author: "Reto Schmucki"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
